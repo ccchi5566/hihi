@@ -1,0 +1,2 @@
+name = "hihi"
+print (name)
